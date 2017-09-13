@@ -1,1 +1,1 @@
-Belajar cara push dan pull dari local repository ke github
+Belajar cara push dan pull dari local repository ke github dan scripting
