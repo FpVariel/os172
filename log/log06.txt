@@ -1,24 +1,14 @@
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-12-PS-About: Do week05&week06 task about memory
-w06-170910-16-PS-About: Lab session
-w06-170910-16-PS-About: Lab session
-w06-170910-16-PS-About: Lab session
-w06-170910-16-PS-About: Lab session
-w06-171010-16-LR-About: Class session, and practicing C language
-w06-171010-16-LR-About: Class session, and practicing C language
-w06-171010-16-LR-About: Class session, and practicing C language
-w06-171010-16-LR-About: Class session, and practicing C language
-w06-171110-20-LR-About: Take a review for quiz
-w06-171110-20-LR-About: Take a review for quiz
-w06-171110-20-LR-About: Take a review for quiz
-w06-171110-20-LR-About: Take a review for quiz
-w06-171210-16-LR-About: Quiz
-w06-171210-16-LR-About: Quiz
-w06-171210-16-LR-About: Quiz
-w06-171210-16-LR-About: Quiz
+w06-173110-16-LR-Class Session about fork process
+w06-173110-16-LR-Class Session about fork process
+w06-173110-16-LR-Class Session about fork process
+w06-173110-16-LR-Class Session about fork process
+w06-170211-16-LR-Class Session about fork process
+w06-170211-16-LR-Class Session about fork process
+w06-170211-16-LR-Class Session about fork process
+w06-170211-16-LR-Class Session about fork process
+w06-170411-09-PS-Do week06 task about fork process
+w06-170411-09-PS-Do week06 task about fork process
+w06-170411-09-PS-Do week06 task about fork process
+w06-170411-09-PS-Do week06 task about fork process
+w06-170411-09-PS-Do week06 task about fork process
+w06-170411-09-PS-Do week06 task about fork process
