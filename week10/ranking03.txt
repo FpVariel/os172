@@ -1,0 +1,19 @@
+-----------------------------------------
+RANKING03 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+01. [W03-005] 394 https://os-adrikanovrialdi.blogspot.co.id/2017/12/ulasan-2-proses-booting-pada-linux.html
+02. [W03-010] 392 http://itshanra.blogspot.co.id/2017/12/ulasan1.html
+03. [W03-012] 390 https://ichlasulaffan.blogspot.co.id/2017/12/ulasan-01-why-systemd.html
+04. [W03-006] 388 http://aqueenofhearts.blogspot.co.id/2017/12/ulasan2-sistem-operasi-bios-as-quick-as-possible.html
+05. [W03-007] 387 http://febrianfikar.blogspot.co.id/2017/11/ulasan-1-why-uefi.html
+06. [W03-001] 382 https://hairegina.blogspot.co.id/2017/11/ulasan-1-boot-process-linux-ulasan-saya.html
+07. [W03-004] 380 https://titatatiti.blogspot.co.id/2017/12/ulasan-2-week-03.html
+08. [W03-002] 379 https://os-gilangfaras.blogspot.co.id/2017/11/bios-dan-uefi.html
+09. [W03-011] 375 http://hashlash-os172.blogspot.co.id/2017/12/ulasan-2-computer-boot-process.html
+10. [W03-013] 373 https://megamutiarah.blogspot.co.id/2017/12/ulasan-2-what-happens-when-i-turn-my.html
+-------------------------------------------
+Oleh (GITHUB): FpVariel
+URL BLOG RANKING: https://variel-os.blogspot.jp/2017/12/ranking03-ulasan-peserta-os-2017-2.html
+Revisi Pertama: 9 Dec 2017
+Revisi Terakhir: 9 Dec 2017
+-------------------------------------------

@@ -1,0 +1,13 @@
+-----------------------------------------
+RANKING05 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+01. [W05-003] 397 https://rand0101int.blogspot.co.id/2017/11/ulasan2-virtual-memory-5-page-tables.html
+02. [W05-004] 391 http://paraprodoskian.blogspot.co.id/2017/11/ulasan-1-fragmentation.html
+03. [W05-002] 386 http://ryannaufalp.blogspot.co.id/2017/11/ulasan-1-memory-manager.html
+04. [W05-006] 381 https://myosstory.blogspot.co.id/2017/12/ulasan-1-least-recently-used-lru.html
+-------------------------------------------
+Oleh (GITHUB): FpVariel
+URL BLOG RANKING: https://variel-os.blogspot.jp/2017/12/ranking05-ulasan-peserta-os-2017-2.html
+Revisi Pertama: 9 Dec 2017
+Revisi Terakhir: 9 Dec 2017
+-------------------------------------------

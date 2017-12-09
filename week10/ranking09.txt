@@ -1,0 +1,18 @@
+-----------------------------------------
+RANKING09 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+01. [W09-002] 400 https://rand0101int.blogspot.co.id/2017/11/ulasan1-how-do-hard-drives-work.html
+02. [W09-001] 399 https://mfauzanfikri.blogspot.co.id/2017/11/ulasan-1-raid-explained-and-different.html
+03. [W09-007] 395 https://myosstory.blogspot.com/2017/12/ulasan-2-file-structure-file-system.html
+04. [W09-005] 390 https://alyaph.blogspot.co.id/2017/12/ulasan-2-ssd-intel-optane.html
+05. [W09-003] 388 https://os2017-yudhasatria.blogspot.co.id/2017/11/ulasan-2-raid-0-1-5-10.html
+06. [W09-008] 387 https://zidanebelajarbareng.blogspot.com/2017/12/pada-artikel-kali-ini-saya-akan.html
+07. [W09-004] 383 http://oskyranger.blogspot.com/2017/12/ulasan-1-raid-fundamentals.html
+08. [W09-009] 380 https://dip-os.blogspot.co.id/2017/11/ulasan-1.html
+09. [W09-006] 379 http://regensa.blogspot.co.id/2017/12/ulasan2.html
+-------------------------------------------
+Oleh (GITHUB): FpVariel
+URL BLOG RANKING: https://variel-os.blogspot.jp/2017/12/ranking09-ulasan-peserta-os-2017-2.html
+Revisi Pertama: 9 Dec 2017
+Revisi Terakhir: 9 Dec 2017
+-------------------------------------------
